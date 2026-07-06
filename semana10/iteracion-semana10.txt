@@ -1,0 +1,8 @@
+¿Qué significa para ti que una tarea esté “terminada”?
+Una tarea está terminada cuando cumple con los requisitos definidos, funciona correctamente y puede ser utilizada sin presentar errores importantes.
+
+Definición simple de terminado:
+
+La funcionalidad funciona correctamente.
+Fue probada y no presenta errores.
+El cambio quedó registrado en Git con su respectiva confirmación (commit).

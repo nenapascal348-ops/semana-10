@@ -1,0 +1,8 @@
+¿Qué evento activa el flujo?
+El flujo se activa cuando un ciudadano registra una nueva incidencia en la plataforma comunitaria.
+
+¿Qué mensaje se enviaría a Telegram?
+"Se ha registrado un nuevo reporte en la plataforma. Ingresa al sistema para revisarlo y darle seguimiento."
+
+¿Qué información no debería enviarse por seguridad?
+No deben enviarse nombres completos, números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas, evidencias con información personal ni ningún otro dato sensible que pueda afectar la privacidad de las personas.
